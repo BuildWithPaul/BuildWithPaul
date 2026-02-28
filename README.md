@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Paul 👋  
 
-<!--
-**BuildWithPaul/BuildWithPaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical tools and small apps.  
+I like automation, clean solutions, and projects that solve real problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### 🛠 ChouChouAlerte  
+Python tool that tracks SNCF train disruptions for selected routes and sends alerts when there is a delay or cancellation.  
+
+**Tech:** Python  
+
+---
+
+### 📱 Kalori.io  
+Android app that scans food barcodes and shows nutrition details, including augmented reality features.  
+
+**Tech:** Android / Mobile  
+
+---
+
+### 💡 CircaLight  
+Python project to control smart lights (such as Govee) throughout the day.  
+
+**Tech:** Python / IoT  
