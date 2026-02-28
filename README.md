@@ -28,3 +28,11 @@ Python project to control smart lights (such as Govee) throughout the day.
 
 **Tech:** Python / IoT  
 **Repository:** https://github.com/BuildWithPaul/CircaLight  
+
+---
+
+### 🎨 MonJoliPasse  
+Tool to visually style a COVID certificate while keeping the original QR code intact.  
+
+**Tech:** Vue / Node.js / Expo-React Native  
+**Repository:** https://github.com/BuildWithPaul/MonJoliPasse
