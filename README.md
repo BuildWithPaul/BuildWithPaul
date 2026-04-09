@@ -1,6 +1,5 @@
 # Hi, I'm Paul 👋  
 
-I build practical tools and small apps.  
 I like automation, clean solutions, and projects that solve real problems.
 
 ---
