@@ -39,6 +39,14 @@ Flask web app that scans grocery receipt photos with OCR, matches 100+ food item
 
 ---
 
+### 🔒 caddy-docker  
+Reusable Caddy reverse proxy setup in Docker — auto-HTTPS with Let's Encrypt, subpath routing, zero-config certificate renewal. Exposes any Docker service to the internet securely.  
+
+**Tech:** Docker / Caddy  
+**Repository:** https://github.com/BuildWithPaul/caddy-docker  
+
+---
+
 ### 🎨 MonJoliPasse  
 Tool to visually style a COVID certificate while keeping the original QR code intact.  
 
