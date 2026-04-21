@@ -34,6 +34,7 @@ Python project to control smart lights (such as Govee) throughout the day.
 Flask web app that scans grocery receipt photos with OCR, matches 100+ food items against 12 essential vitamins, and displays an interactive deficiency dashboard with radar charts, progress bars, and dietary recommendations.  
 
 **Tech:** Python / Flask / Chart.js / Tesseract OCR  
+**Live demo:** https://paul-sandbox.duckdns.org/vitaminchecker/  
 **Repository:** https://github.com/BuildWithPaul/VitaminChecker  
 
 ---
